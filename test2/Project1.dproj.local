@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.098,=D:\del10_project\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.675,=D:\del10_project\Unit1.pas</Transaction>
+    <Transaction>2020-04-02 15:21:20.660,=D:\del10_project\Unit1.pas</Transaction>
+    <Transaction>2020-04-02 15:22:32.369,D:\del10_project\test2\Unit1.dfm=D:\del10_project\Unit1.dfm</Transaction>
+    <Transaction>2020-04-02 15:22:32.369,D:\del10_project\test2\Unit1.pas=D:\del10_project\Unit1.pas</Transaction>
+    <Transaction>2020-04-02 15:22:33.742,D:\del10_project\test2\Project1.dproj=D:\del10_project\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
