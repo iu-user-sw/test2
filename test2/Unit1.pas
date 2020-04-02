@@ -4,12 +4,16 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, RzPanel, RzSplit,
+  Vcl.ExtCtrls;
 
 type
   TForm1 = class(TForm)
     Label1: TLabel;
     Edit1: TEdit;
+    RzStatusBar1: TRzStatusBar;
+    RzSplitter1: TRzSplitter;
+    RzToolbar1: TRzToolbar;
   private
     { Private declarations }
   public
